@@ -9,3 +9,7 @@ Arduino compatible battery operated LoRaWAN End Node using the RFM95 with the AT
 5. Example: For India 865 MH branch, select #define CFG_in866 1 & #define CFG_sx1276_radio 1
 6. Change the OTAA Keys
 7. Upload the program onto the board using a USB-UART converter
+
+# Snapshots:
+![PCB Front](/dbLoRa-3D-F.png)
+![PCB Back](/dbLoRa-3D-B.png)
