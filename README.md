@@ -11,5 +11,11 @@ Arduino compatible battery operated LoRaWAN End Node using the RFM95 with the AT
 7. Upload the program onto the board using a USB-UART converter
 
 # Snapshots:
+PCB Front
 ![PCB Front](/dbLoRa-3D-F.png)
+
+PCB Back
 ![PCB Back](/dbLoRa-3D-B.png)
+
+Final soldered product
+![PCB Back](/dbLoRa-X1.JPG)
